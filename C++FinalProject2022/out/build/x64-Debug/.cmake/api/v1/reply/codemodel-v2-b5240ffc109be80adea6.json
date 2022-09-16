@@ -1,0 +1,85 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1
+					],
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.8"
+					},
+					"projectIndex" : 0,
+					"source" : "."
+				},
+				{
+					"build" : "C++FinalProject2022",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.8"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 1,
+					"source" : "C++FinalProject2022",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"childIndexes" : 
+					[
+						1
+					],
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "C++FinalProject2022"
+				},
+				{
+					"directoryIndexes" : 
+					[
+						1
+					],
+					"name" : "C++FinalProject",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 1,
+					"id" : "C++FinalProject2022::@f3909c1b1fd7a0fc50ef",
+					"jsonFile" : "target-C++FinalProject2022-Debug-8c9684398cac8d28bc69.json",
+					"name" : "C++FinalProject2022",
+					"projectIndex" : 1
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/hp/source/repos/C++FinalProject2022/out/build/x64-Debug",
+		"source" : "C:/Users/hp/source/repos/C++FinalProject2022"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 2
+	}
+}
